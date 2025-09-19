@@ -6,5 +6,5 @@
         <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-puc_white.svg"> <img src="../assets/logo-puc.svg" height="150px">
     </picture>
     <br> <br> <hr>
-    <a src="https://lucaslealll-puc-cc-tcc.github.io/eanalytics/" target="_blank">Website: E.Analytics</a>
+    <a href="https://lucaslealll-puc-cc-tcc.github.io/eanalytics/" target="_blank">Website: E.Analytics</a>
 </div>
