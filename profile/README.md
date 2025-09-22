@@ -7,6 +7,6 @@
     </picture>
     <br> <br> <hr> -->
     <h1>
-        <a href="https://lucaslealll-puc-cc-tcc.github.io/eanalytics/" target="_blank">Website: E.Analytics</a>
+        <a href="https://lucaslealll-puc-cc-tcc.github.io/web_dashboard/" target="_blank">Website: Web Dashboard | E.Analytics</a>
     </h1>
 </div>
