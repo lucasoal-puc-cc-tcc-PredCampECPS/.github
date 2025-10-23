@@ -1,7 +1,7 @@
 <div align="center">
         <hr>
         <h3>
-                <a href="https://lucaslealll-puc-cc-tcc.github.io/web_dashboard/" target="_blank">
+                <a href="https://lucasoal-puc-cc-tcc-predcampecps.github.io/view/" target="_blank">
                         Website: Web Dashboard | PredCamp-ECPS
                 </a>
         </h3>
